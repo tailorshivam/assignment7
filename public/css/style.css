@@ -1,0 +1,17 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+input::placeholder {
+  color: #999;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+input:invalid {
+  border: 1px solid red;
+}
