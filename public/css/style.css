@@ -11,7 +11,3 @@ footer {
   bottom: 0;
   width: 100%;
 }
-
-input:invalid {
-  border: 1px solid red;
-}
